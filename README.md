@@ -102,4 +102,4 @@ Every user gets a private control panel with:
 
 ## ⚠️ Disclaimer
 
-This tool is intended **exclusively for authorized security testing, educational purposes, and legitimate research**. Users are responsible for complying with all applicable laws. Unauthorized access to computer systems is illegal.
+This tool is intended exclusively for authorized security testing, educational purposes, and legitimate research.
