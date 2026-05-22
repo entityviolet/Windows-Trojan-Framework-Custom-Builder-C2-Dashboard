@@ -2,7 +2,7 @@
 
 # 🧬 V-Entity Trojan
 
-### Custom-Compiled Windows Remote Access Agent — Per-User C2 Dashboard
+### Custom-Compiled Windows Security Assessment Agent — Per-User C2 Dashboard
 
 [![Website](https://img.shields.io/badge/Web-v--entity.pro-8A2BE2)](https://v-entity.pro)
 [![Contact](https://img.shields.io/badge/Contact-support%40v--entity.pro-blue)](mailto:support@v-entity.pro)
@@ -94,6 +94,12 @@ Every user gets a private control panel with:
 
 <div align="center">
 
-*Built for red team operations. Each build is unique. Each deployment is isolated.*
+*Built for authorized security testing. Each build is unique. Each deployment is isolated.*
 
 </div>
+
+---
+
+## ⚠️ Disclaimer
+
+This tool is intended **exclusively for authorized security testing, educational purposes, and legitimate research**. Users are responsible for complying with all applicable laws. Unauthorized access to computer systems is illegal.
